@@ -40,8 +40,8 @@ def download_bucket(bucket_name, project_id, destination_dir):
 
 def main():
     # Configuration
-    BUCKET_NAME = "farmdar_rnd"
-    PROJECT_ID = "ee-farmdar"
+    BUCKET_NAME = "YOUR_BUCKET_NAME_ON_GCP"
+    PROJECT_ID = "YOUR_GCP_PROJECT_ID"
     DESTINATION_DIR = "1_Downloads"
     
     try:
