@@ -37,8 +37,8 @@ def upload_folder_to_gcs(bucket_name, source_folder, destination_folder, project
 
 def main():
     # Configuration
-    BUCKET_NAME = "farmdar_rnd"
-    PROJECT_ID = "ee-farmdar"
+    BUCKET_NAME = "YOUR_GCP_BUCKET_NAME"
+    PROJECT_ID = "YOUR_GCP_PROJECT_NAME"
     SOURCE_FOLDER = "compressed"
     DESTINATION_FOLDER = "SR/compressed"
     
