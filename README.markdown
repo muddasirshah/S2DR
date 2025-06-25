@@ -9,6 +9,10 @@ This repository contains scripts for super-resolution of Sentinel-2 imagery usin
 - **Data Augmentation**: Augment patches for deep learning using `PIL`.
 - **Deep Learning**: Train a super-resolution model (requires significant GPU resources).
 
+- ![Image A](images/a.png)
+- ![Image B](images/b.png)
+- ![Image C](images/c.png)
+
 ## Prerequisites
 
 ### System Requirements
