@@ -125,7 +125,7 @@ python augment.py
 ### Training
 Configure model architecture and parameters in training script. Example:
 ```
-python train.py --input_dir augmented_patches --output_dir model_weights
+see notebook
 ```
 
 Ensure GPU drivers and CUDA are configured.
